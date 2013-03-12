@@ -122,7 +122,7 @@ Punctajele prag pentru nivele sunt:
 * Nivel 8: 24820p
 * Nivel 9: 37620p
 
-Pentru a raporta probleme și buguri ale WUSO, vă rugăm să folosiți issue tracker-ele din GitHub. Informații despre cum se pot raporta bug-uri se găsesc [aici] [1].
+Pentru a raporta probleme și buguri ale WoSO, vă rugăm să folosiți issue tracker-ele din GitHub. Informații despre cum se pot raporta bug-uri se găsesc [aici] [1].
 [1]: https://github.com/rosedu/woso-content/wiki/Cum-Raportez-un-bug%3F "aici"
 
 Pentru întrebări, discuții, observații legate de joc, vom folosi lista WoSO: so@cursuri.cs.pub.ro. Urmăriți și știrile afișate în cadrul paginii de știri a portalului WoSO.
