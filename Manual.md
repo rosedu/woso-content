@@ -6,7 +6,7 @@ I. Informații de bază
 
 Un jucător poate avea la un moment dat: puncte și karma points.
 
-Punctele reprezintă singurul criteriu care determină ordinea în clasament, iar karma-points sunt folosite pentru a reflecta karma adusă în jurul cursului de Sisteme de Operare.
+Punctele reprezintă singurul criteriu care determină ordinea în clasament, iar karma-points sunt folosite pentru a reflecta bonusurile dobândite în jurul cursului/laboratorului de Sisteme de Operare.
 
 Fiecare jucător are un level, care are importanță în timpul de rulare al unei provocări. Toți jucătorii pornesc cu level 1, urmând ca acesta să crească la atingerea anumitor punctaje.
 
